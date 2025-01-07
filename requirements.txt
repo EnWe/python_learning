@@ -1,0 +1,2 @@
+pip3-autoremove==1.2.2
+setuptools==75.7.0
